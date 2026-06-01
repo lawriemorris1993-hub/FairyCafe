@@ -270,11 +270,11 @@ Sitemap: https://fairycafe.com/sitemap.xml`,
         "name": "Fairy Cafe flagship patio",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "123 Willow Lane",
-          "addressLocality": "Evergrove",
+          "streetAddress": "5937 Nkulumane Drive",
+          "addressLocality": "Nkulumane, Bulawayo",
           "addressRegion": "ST",
           "postalCode": "00000",
-          "addressCountry": "US"
+          "addressCountry": "Zimbabwe"
         }
       },
       "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?q=80&w=600",
