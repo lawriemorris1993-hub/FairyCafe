@@ -1,0 +1,6 @@
+{
+  "name": "Fairy Cafe",
+  "description": "A whimsical, cozy cafe website serving specialty coffee, artisan teas, and magical treats with robust reservation and online ordering systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
